@@ -50,7 +50,7 @@ function Header() {
             <DropdownMenuTrigger asChild>
               <Button
                 variant="outline"
-                className="border-0 outline-none hover:bg-white ring-0 focus-visible:ring-0"
+                className="border-0 outline-none bg-none shadow-none p-3 hover:bg-white ring-0 focus-visible:ring-0"
               >
                 <img
                   src={Images.user}
