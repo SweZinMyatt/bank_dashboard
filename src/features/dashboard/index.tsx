@@ -9,7 +9,7 @@ import BalanceChart from './components/balanceChart'
 function Dashboard() {
   return (
     <div className="w-full">
-      <AppSidebar />
+      
       <div className="lg:mt-5 mt-2 max-w-6xl mx-auto lg:px-10 px-5">
         <CardList />
       </div>
